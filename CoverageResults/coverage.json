@@ -1,0 +1,117 @@
+{
+  "Project2.dll": {
+    "C:\\Projects\\codecoverage\\project2\\Class1.cs": {
+      "Project2.Class1": {
+        "System.Boolean Project2.Class1::isANumber(System.String)": {
+          "Lines": {
+            "6": 8,
+            "8": 8,
+            "9": 8
+          },
+          "Branches": []
+        },
+        "System.Boolean Project2.Class1::isAPrimeNumber(System.Int32)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": [
+            {
+              "Line": 13,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 13,
+              "Offset": 7,
+              "EndOffset": 13,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 14,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 14,
+              "Offset": 19,
+              "EndOffset": 25,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 18,
+              "Offset": 79,
+              "EndOffset": 43,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 19,
+              "Offset": 54,
+              "EndOffset": 56,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 19,
+              "Offset": 54,
+              "EndOffset": 60,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 18,
+              "Offset": 79,
+              "EndOffset": 81,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Project1.dll": {
+    "C:\\Projects\\codecoverage\\Project1\\Class1.cs": {
+      "Project1.Class1": {
+        "System.Int32 Project1.Class1::SumNums(System.Int32[])": {
+          "Lines": {
+            "6": 2,
+            "7": 2,
+            "8": 2
+          },
+          "Branches": []
+        },
+        "System.Double Project1.Class1::AverageNums(System.Double[])": {
+          "Lines": {
+            "11": 2,
+            "12": 2,
+            "13": 2
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
